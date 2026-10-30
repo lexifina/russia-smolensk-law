@@ -1,0 +1,877 @@
+{
+ "country": "RU-SMO",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "d3769cd92fc1a0d27e7b7eb37fb08858302796cdb5a5658c6bcf7393e1efdb71"
+    },
+    {
+     "from": "2014-11-05",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "0ad9b4a471d9cfeb40e3a2cfbef8a760ff5f886d090358a7c62715f2746f76d9"
+    },
+    {
+     "from": "2014-11-21",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "004ab7a2d34f81a90f60badd2b558580062685b2e25c229d529b07a1cb5154f4"
+    },
+    {
+     "from": "2014-11-24",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "f750d2d83e0a0dc9bd894bf48659768d0397911e979e9e07f96657b9aaea60ef"
+    },
+    {
+     "from": "2014-12-11",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "6745ac31b4dae27655ba2b32fd948d1225534b7f0e9430bac74949cc6c192904"
+    },
+    {
+     "from": "2014-12-17",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "0b5187b9384c4b40a7ba010b448d6d21a29e2f67c6586ade413a2133ceaedc7b"
+    },
+    {
+     "from": "2014-12-29",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "1d53c78579e81ad1aeba26a33de24c1a926894e8c6d1829902db71ba8f96aaa7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "173d39bc80256bfd8f7addf3748893f517a4887b9b088a177b653378d3462139"
+    },
+    {
+     "from": "2015-03-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "90631adcc63887155938b18897cfb53400bf75cf8e0ec973fa89364f5979e57f"
+    },
+    {
+     "from": "2015-05-05",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "eb8ed23a056c04bddde602b4097af829c1493fb5c9347b1cf6e46a990b3c2516"
+    },
+    {
+     "from": "2015-05-06",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "f9cded0929ed7f3eef98b385854df7230ed7d28d7663075f5cae0c9197eb0339"
+    },
+    {
+     "from": "2015-05-28",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "64bb21e9ce5594fd3469bef6d21e7dee25b54dafb07fee0857a65b52a2549039"
+    },
+    {
+     "from": "2015-06-09",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9e426f15a8cd4e1fd0284543d096c79c879318cd6c3ad2d2f572d4e54bc0812f"
+    },
+    {
+     "from": "2015-06-10",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "e61904ba9cd147fe1e9db3edf75a6db936f2be48dad0d998fe270c0db10c31d8"
+    },
+    {
+     "from": "2015-07-08",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "3da450c84ed5260c8a052ba0edae3a43ab310f5cdc78d016bbdc4b08677e296c"
+    },
+    {
+     "from": "2015-09-30",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "4f83ab47e8083f989d3e39be9caee44fbb14b755059c3e8c22570912d5d7548c"
+    },
+    {
+     "from": "2015-10-29",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "475eda0102b5af5ed1d9c81aca62abe615b59df3d1e0b7d0f728e3dee41fd2f5"
+    },
+    {
+     "from": "2015-10-30",
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "b738101c622f14344b43086a7631078cdf38fe6171c0c8b53500a72ced3623ba"
+    },
+    {
+     "from": "2015-11-27",
+     "units": 163,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "e0fc10f4d61c3660086acddd2cb0f6ecf24e4feb3f283c804cb660af8c7ccc35"
+    },
+    {
+     "from": "2015-12-10",
+     "units": 178,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "a03e6eb14df0fd28952e8543ecf9297f8c65eb869ff7f5d5481bb17249641a1e"
+    },
+    {
+     "from": "2015-12-25",
+     "units": 195,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "5c553ecd8e697a15c24272d7daf81e518359ed9ab52e31eecf89054642a0ed96"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9208c9ffeb5dd45d164f6b2252e4daa11fc17957b6c14abeba96bfe9432b8134"
+    },
+    {
+     "from": "2016-04-01",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "142c960a9fded62690ea53b704dfd0c76c2aa115723a00cf9b1698e2a31e9995"
+    },
+    {
+     "from": "2016-04-21",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "88d83f5738a02bf0270cda075dfea12bfd54c68919e2d80f1a65faa21b817fd4"
+    },
+    {
+     "from": "2016-05-26",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "656ab595a4070ea922fba21b76095ea0b76d2060a0c2635aca47aed6d0ec0d8b"
+    },
+    {
+     "from": "2016-06-17",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "b318a7c7a6e7fa2bad0453038d703be82d517e3a1f27a4b82dbbb164a0fb9528"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "753176273c7cbcf0700662f18c652482170f98020005dc73e5a32a49897968cc"
+    },
+    {
+     "from": "2016-09-29",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "cdae130415899819b3b163fd63173eddbbeadb3646f1d660e07ca76341f7ccda"
+    },
+    {
+     "from": "2016-10-28",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "f9be86855001765a168cc8dd30baa0d665fea4aeb341a0e0deec5f0512f07440"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "373033811f4eb88753e1df420fde2c6c4fcc956d1e266a483a3441e3b7eb923a"
+    },
+    {
+     "from": "2016-12-01",
+     "units": 152,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "dac6eb6c5c53aadcfc32ca926e1c23c626102ae0ef624443d7164dd5cd93338b"
+    },
+    {
+     "from": "2016-12-28",
+     "units": 178,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "d5adc130cc80efa7c058735f3a89c556ae4f148bbb110468217294f247a667fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "3b08a1f803d6255b2f7a03b528864936591693a0ace2fa849b7799747ada371e"
+    },
+    {
+     "from": "2017-03-23",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "8c994d56925ab9411632908a21a74968b94fb4707f486ca79de58aaa6fb5a8f0"
+    },
+    {
+     "from": "2017-04-28",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "cadbc919322d925e9ad96de5711dee4220968c9b7b0c606eaf74729cd35b6393"
+    },
+    {
+     "from": "2017-05-25",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "5db46746446b8e95c0b55f8e9dc4ad2ffb337e7c5966f196b2f358547199bab6"
+    },
+    {
+     "from": "2017-06-28",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "346d827b4371e278152eee6f10371131d344756c565e34e8c4356b62c61eb620"
+    },
+    {
+     "from": "2017-10-09",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "df150dfb9c02c8a5e3bc889055c17ad18792ac6fbb4772348f4b679154cc3b06"
+    },
+    {
+     "from": "2017-10-25",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "846ea426e7599387eefe56582671c07f9b48b51eba6ba7a275a84d41cdfcd325"
+    },
+    {
+     "from": "2017-11-15",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "3d4385fbc17ca4f885c09278dca375b741ae55cde74495799b6fe7aad3b2e1ec"
+    },
+    {
+     "from": "2017-11-24",
+     "units": 144,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "e564110fce845139581399b2455b91d642e3cdc4febf060b7ec548442f90b725"
+    },
+    {
+     "from": "2017-12-21",
+     "units": 169,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "0dcb8830bc1e5a87721cd155c528782ab5b628feb3128f1ee3ef2fc9ee74a5a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "ddf131f5702a40d64c61808724caa3d5ca2796e7c8d858161052577e66f6f178"
+    },
+    {
+     "from": "2018-03-01",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "62240db78fbe9375d632e830100c236368513297647038ce2bac648a68ecea24"
+    },
+    {
+     "from": "2018-04-04",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "726bfce979ff1003efa353fce93331f9acb64fc3371f503dd1b6e1ae57ebb7a3"
+    },
+    {
+     "from": "2018-04-26",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "02a10e14e69436baa5d43a4f3427fb92c6bc7dd876c8e6674e5b990425d5d55a"
+    },
+    {
+     "from": "2018-05-31",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "1886700353f65573301dc39a7ba2c153a40d9bf7a1dba1f4f0ed5afd14411e9b"
+    },
+    {
+     "from": "2018-06-07",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "56c64cb33a3668ddd322fe2e54d7afc16a588a67206d57d7f82a8ae330f43c6b"
+    },
+    {
+     "from": "2018-06-28",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "53a2a7063842a87a61724e42cc9c9aa2467ff1f997a1178434661122b3fc9c85"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "a4e3aa3e96df4ad363b8cc48dcbc75c03c901d4b2314360441194bbed0800233"
+    },
+    {
+     "from": "2018-10-25",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "bd78c634a90901d926b4bf003838b2eb88ffebbba510f99f7caba6582b4c27a2"
+    },
+    {
+     "from": "2018-11-15",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "225c2c02752c721f72bec67248253a571a1d940bd425ba9cf5965fb45b1f4aac"
+    },
+    {
+     "from": "2018-12-20",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9523fb92568a3bed10faca5354f4a4017dea4175b061699c1e1b34ea54289f5a"
+    },
+    {
+     "from": "2018-12-21",
+     "units": 191,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "a5291b01a19e59d9f08bc667c88a4ea4efa69a95e13e8b901ebb1abef856e13d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "ec7bac6b842d491573a43e46730f311abb4363157b6c3f0899768077fda31a3d"
+    },
+    {
+     "from": "2019-03-28",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "44df76beaf80ab999d90d3699d5ae40b9d281317c435c2e5e4068b34f76309c7"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "4e22746865028d4303e84725eb0e6815a7fec207dc93a958d9a15293366ae2b2"
+    },
+    {
+     "from": "2019-05-30",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "cf3f68ff4346426bc82f0ae874756a2612be2e94a026288d1efa28cb65300c35"
+    },
+    {
+     "from": "2019-06-27",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "850969f4975182dcdb8742167b88482d482ef539036d6ad58173e3e28cc8c6ed"
+    },
+    {
+     "from": "2019-09-12",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "305068cba388c602ae8400ed7727ce1a9296ab20d307eff7bc44ca634f804791"
+    },
+    {
+     "from": "2019-10-25",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "650509bcf66ab0985848a4db3da8f8cb4b6bc4b568123f76d25da8fd706032fe"
+    },
+    {
+     "from": "2019-11-14",
+     "units": 129,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9b6772f7362807e3cf03cf146a832fa34d877f937f623ad1b3ed9e8c751bb8a1"
+    },
+    {
+     "from": "2019-12-19",
+     "units": 156,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "ac57946affe9c0554bfe736023ae5dbd1c02854b631ec10df4ee56e97ea18114"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "f30a4aaf0f8c006b61a572e71025f099f07e1b55011a82113bf4ce7848b32a5e"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "08e0cbde06aa829354f930d2cf39f097535243e1cf5717973e033bd5c9c1f86c"
+    },
+    {
+     "from": "2020-04-30",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "655fbb4bd576d3b549cbccd1742877792bc9eab120789700b148011fbf65ce38"
+    },
+    {
+     "from": "2020-05-28",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "bed911a7f484b3f1e71e4af7beee32e567d864a471dd2489bca47df2f66ad571"
+    },
+    {
+     "from": "2020-06-15",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "1e81119bf9dc247d26f0304f5fd4e685e6e3fb5df3095c6ed0c0620a4889edef"
+    },
+    {
+     "from": "2020-06-25",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "c14eb38b2559539576f4c4ad0f9ef4c1d146005846a6f8d308bba0b1e8f3f79b"
+    },
+    {
+     "from": "2020-09-24",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9f2be1a576a0f3e070936e637c4c28f91bf926d7768f77f6d937bef050b9ee82"
+    },
+    {
+     "from": "2020-10-29",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "87f47b27d447d93b56827d81bb7def91c5ae198d2aa227b415bbd934a3766cbb"
+    },
+    {
+     "from": "2020-11-26",
+     "units": 164,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9cc12bb42855cd4ab8d19074d6375dd33baa8154b6f265e28ec53d7070f8b1dc"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 193,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "917bd89d0bdb6f83de1e75a447acbae0ede443b8cdfee14f62e42028fee9c9f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "94d1013dc1c92e5013245448aec58b900385968bcffb28b8812e5ac8922f9b23"
+    },
+    {
+     "from": "2021-03-25",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "ca427bc423b2869e8aa4c8f38cabf6b5728a4bb9d59f4916183b48407508334f"
+    },
+    {
+     "from": "2021-04-30",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "38dfbb471777a41f76882a13441bc52f35927155adb5db140cabac78fdc9ec7b"
+    },
+    {
+     "from": "2021-05-27",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "dd2aaa1fa48bd994e4f7eee45577faa2f122a3e8e6a581c4e277d29c7f8ba5bb"
+    },
+    {
+     "from": "2021-06-24",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "d12637db1a1c6928e976eb367b5a73d38f2c1480261066f238c4539bcd916f98"
+    },
+    {
+     "from": "2021-09-29",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "c953be63e770457d1e788f105e641d5887ff5e972edc8963cb7d72b48cd2a8c8"
+    },
+    {
+     "from": "2021-09-30",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "c2337a3def3280d31afe4a8a9eaedf85f634738718854b1d7d98f9d371d068cf"
+    },
+    {
+     "from": "2021-10-21",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "1ef01155603dfc852f8e583f0a5cf57dae827bfd8631e19312d53a379f21ff60"
+    },
+    {
+     "from": "2021-11-25",
+     "units": 153,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "1724b5afc90058c21df938e33811332454a00f82f8f525336ea17fafa748e8b4"
+    },
+    {
+     "from": "2021-12-17",
+     "units": 168,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "26760492b5986ee61052c0bdf1db4bed54e7c9e31eecac604980d459e781c205"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "51c31b0a31f717978ec9f1032e5e7642309077611419ffcf0bcd736e6ff337ce"
+    },
+    {
+     "from": "2022-03-31",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "8e65b613c739ed7a3afbb491adc4a567a04749886a5a661b9b9808fa1ef0ad04"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "2fff8f40e7c7f52efe6f8040511d23c875c5078eaf1e115b695698c972e522e5"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "acd23cbc1a64dce122ef5dee406353885217b647bdda767ec7ae0cd6e59cf47d"
+    },
+    {
+     "from": "2022-06-30",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "2b390af501eb91f7d0de45feefad3553ae6314575486127f5d66aade932c762d"
+    },
+    {
+     "from": "2022-09-29",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "4f16ce6626dffa8436ab5dd9b190e9f11390b701ca1c2a1a136b67932aa0fa68"
+    },
+    {
+     "from": "2022-10-27",
+     "units": 138,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "c369e4cc8553a09297be813411d70f6f8d90677241e53edb06ae424369de1cf4"
+    },
+    {
+     "from": "2022-11-24",
+     "units": 157,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "488f6e72ffba526751bc31d9642d3788939e82b9a9114dc3c984f2a969e7dbfd"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 158,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "04e6a0bbe2fd20e99f9b0eb91134cc8d18ba949f5665bfb2b302ab075cb828c4"
+    },
+    {
+     "from": "2022-12-16",
+     "units": 177,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "a8c387367111c42b41e071f92fa16366b39649f1d034aa194d571953cff57cee"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "5b4f2d5b77ea086783399f9610162532191860c2c3bc84921d905355b66c730e"
+    },
+    {
+     "from": "2023-03-30",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "1781d9e29ee2262dbf69330802eb2990fa571f3627b2d029c8471595f7e92ccd"
+    },
+    {
+     "from": "2023-04-25",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "5ea0333ab91e9e52d7cb6c33e82f965fee9c72fc0e9a18a82a442eeea810f1af"
+    },
+    {
+     "from": "2023-05-25",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "91a1492a5980430ce3818cbaf66ecec31dbb20bbb41967a84cbefba85bf763e7"
+    },
+    {
+     "from": "2023-07-06",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "b22eaf34793f46cd640484ff65712667bfb8a591f331b27c0b22dbab437137e7"
+    },
+    {
+     "from": "2023-09-28",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "deb74e9fdfd7ed356af1cf4ba6f2f371d073812361d41cfa409f3b79f4ccaf32"
+    },
+    {
+     "from": "2023-10-26",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "7a61e5cb833e7ccf181f80728c5718e0fc12b002e4573cc223f0eb52265eace6"
+    },
+    {
+     "from": "2023-11-23",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "3b74405247ca4ca678395ed9a150f7031ec9599f52ffc0cf03d0345a39b8cb1f"
+    },
+    {
+     "from": "2023-12-14",
+     "units": 162,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "02f740eee9e489caf7adc5759a960f43c957081b61a49ba82abf8e14b6e26d8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "89759767ea2abd3dd1e8caaa521b927456afc4e97febe08f2c2d0b19a9873602"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "64daacee53792ba18f73815f853933cb81362d63a8b27ac374a06416513640bf"
+    },
+    {
+     "from": "2024-04-24",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "87a971193ffd69922d92799e9ccbce64ed16eb966aac637dd2386d9bb7c873f9"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "004134278fa816161578434037c3efc2f0fc18c2256415c4e90270a142f2e266"
+    },
+    {
+     "from": "2024-06-10",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "d14632e1bf8f7d1769acb1f83efd449a356af73dcbd723c7747af10f60f084ab"
+    },
+    {
+     "from": "2024-06-26",
+     "units": 158,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "ce530c0acb7514bc162a318b129b01400d142931de1684e51d6c9f74a962389b"
+    },
+    {
+     "from": "2024-09-26",
+     "units": 181,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "2efd4f2d12a170dc7ccc760e0c48361369e31a970c1eacaef940fb93467ed6f8"
+    },
+    {
+     "from": "2024-10-31",
+     "units": 199,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "b14f0a8388358003758c29fcf2edd1d896550469deb4cec98d593699861188e4"
+    },
+    {
+     "from": "2024-11-27",
+     "units": 224,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "3da0dea4afdeed8e3a94ab7e4a57994c5a6e5457b6dab69b63d3029dec1e51c9"
+    },
+    {
+     "from": "2024-12-19",
+     "units": 278,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "76aded8a6d3ba956022082c27e56e2eb5571e33c27066e2bf9a42484ba15e739"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "b3fc5150b4bc23fc305863d90640a4d4e55ca0c6522a64f0ddab052edce5ea2a"
+    },
+    {
+     "from": "2025-04-03",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "35e516a170c277f6b655e9ac85dab08a748afed004bbc87500c53dc4d2026b73"
+    },
+    {
+     "from": "2025-04-30",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "ad90d23605b94fa6f1a488e14e9ef7e0913377711aefe0cc28eab71bc1a23605"
+    },
+    {
+     "from": "2025-05-29",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "2bc370571d7a9ffd7477b5f6860a38f109d527614617fb043e556c0a8d9cc96a"
+    },
+    {
+     "from": "2025-07-02",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "2982aaa5305d8f418682930109341509417d7d1d1c6adf9fb2f1f4fa43e911ba"
+    },
+    {
+     "from": "2025-09-24",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "e1d3e6f9b0f16c87d6f0e60bba9e46c382dcb153b4d7545ce8588e1987b6bddf"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "82e704b9c944129ec1a40807a12dd5fe604209047e32a798ed174b4b058ef0b3"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "230499d7b6547fd1ef3e5cad332bf626d111436003abffdca91f00e67e0e348c"
+    },
+    {
+     "from": "2025-12-18",
+     "units": 180,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "b5e9b359b549027521e4d68676cc802c645088119549a4362297653d35f2ed0f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Smolensk Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "f8f93e9ca2514b388588ca65b5876573c320882463ddfd3c74834d142cba0374"
+    },
+    {
+     "from": "2026-03-27",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "4069df9c01a2e9a2d157713f7248e4fcdd34696624d407f4c641225d5a31d31e"
+    },
+    {
+     "from": "2026-04-29",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "9244948f7eb1cb7ae783c86c0b9dc396b368b3bbf36b90593d5e1c978c89971d"
+    },
+    {
+     "from": "2026-05-28",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "a11f3dcae0b0b26500ab35826540738c251a820a6413bd5c1d56081399ccb33b"
+    },
+    {
+     "from": "2026-06-29",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "6035cbf2f0067b7924745d3b2ae75d6d01f4381f08e5a392ed8a9e992a2e0943"
+    },
+    {
+     "from": "2026-09-25",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "fe8119275547dd439bdeae983060f876cfea669a79a8f20ee11e93f5d2b47727"
+    },
+    {
+     "from": "2026-10-29",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region67",
+     "sha256": "a0ab544f744d0ae239036b15e640ed6d0b0f5f959cfead43baa48ead5bb8ddd5"
+    }
+   ]
+  }
+ ]
+}
