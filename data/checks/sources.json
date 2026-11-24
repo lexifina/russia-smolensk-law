@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-smolensk",
+   "kind": "legislation",
+   "name": {
+    "en": "Smolensk Oblast: Official Internet Portal of Legal Information (region67)",
+    "ru": "Smolensk Oblast: Официальный интернет-портал правовой информации (region67)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region67",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/smolensk/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-smolensk-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
