@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:02:42Z",
+ "generated": "2026-11-26T06:19:52Z",
  "latest": {
   "pravo-smolensk|russia/smolensk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 2214,
     "source_in_scope": 2214
    },
-   "check_id": "ru-pravo-smolensk-20261125T063452Z",
+   "check_id": "ru-pravo-smolensk-20261126T055926Z",
    "commits": null,
    "corpus": "russia/smolensk/acts",
    "error": null,
-   "finished": "2026-11-25T06:35:54Z",
+   "finished": "2026-11-26T06:00:16Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region67: 2214 law-type documents listed (every page read); 2214 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "2214 law-type documents in block region67; newest published 2026-10-29",
    "source": "pravo-smolensk",
-   "started": "2026-11-25T06:34:52Z",
+   "started": "2026-11-26T05:59:26Z",
    "unexplained": 0,
    "update": {
     "parts": []
