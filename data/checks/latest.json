@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:19:52Z",
+ "generated": "2026-11-27T06:11:52Z",
  "latest": {
   "pravo-smolensk|russia/smolensk/acts": {
    "attempt": 1,
@@ -12,26 +12,47 @@
     "sampled": 2
    },
    "census": {
-    "checked": 2214,
+    "checked": 2230,
     "current": 2214,
     "gone": 0,
     "held": 2214,
     "newest_in_repo": "2026-10-29",
-    "pending": 0,
+    "pending": 16,
     "repo": 2214,
-    "source_in_scope": 2214
+    "source_in_scope": 2230
    },
-   "check_id": "ru-pravo-smolensk-20261126T055926Z",
-   "commits": null,
+   "check_id": "ru-pravo-smolensk-20261127T055316Z",
+   "commits": {
+    "count": 2,
+    "from": "65e8ea241d6e6d1efe72419ac943da5c38d9fab9",
+    "to": "db88d2841b6e7ae9dff988bacb087b0c05b75076"
+   },
    "corpus": "russia/smolensk/acts",
    "error": null,
-   "finished": "2026-11-26T06:00:16Z",
+   "finished": "2026-11-27T05:54:14Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region67: 2214 law-type documents listed (every page read); 2214 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region67: 2230 law-type documents listed (every page read); 2214 held here; 16 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "6700202611260002",
+     "6700202611260003",
+     "6700202611260006",
+     "6700202611260007",
+     "6700202611260008",
+     "6700202611260009",
+     "6700202611260010",
+     "6700202611260011",
+     "6700202611260012",
+     "6700202611260014",
+     "6700202611260015",
+     "6700202611260017",
+     "6700202611260018",
+     "6700202611260019",
+     "6700202611260020",
+     "6700202611260021"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +60,43 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "6700202611260002",
+     "6700202611260003",
+     "6700202611260006",
+     "6700202611260007",
+     "6700202611260008",
+     "6700202611260009",
+     "6700202611260010",
+     "6700202611260011",
+     "6700202611260012",
+     "6700202611260014",
+     "6700202611260015",
+     "6700202611260017",
+     "6700202611260018",
+     "6700202611260019",
+     "6700202611260020",
+     "6700202611260021"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2214 law-type documents in block region67; newest published 2026-10-29",
+   "snapshot": "2230 law-type documents in block region67; newest published 2026-11-26",
    "source": "pravo-smolensk",
-   "started": "2026-11-26T05:59:26Z",
+   "started": "2026-11-27T05:53:16Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261127-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +105,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 128,
+    "versions_checked": 129,
     "versions_differ": 0
    }
   }
