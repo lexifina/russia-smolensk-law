@@ -1,0 +1,17 @@
+{
+ "corpus": "ru/smolensk/acts",
+ "path": "russia/smolensk/acts",
+ "scope": "selected-acts",
+ "acts": 13,
+ "future_branch": "future",
+ "publisher": "Официальный интернет-портал правовой информации (publication.pravo.gov.ru)",
+ "name": "Smolensk Oblast",
+ "language": "ru",
+ "coverage": "13 acts of Smolensk Oblast with every dated version the source gives (129 versions), in force from 2014-10-01 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "2014-10-01",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-27",
+ "record_note": "Texts from Официальный интернет-портал правовой информации (publication.pravo.gov.ru).",
+ "in_force_trailer": "In-force"
+}
